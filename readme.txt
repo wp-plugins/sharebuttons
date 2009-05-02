@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: share, bookmark, email, facebook, digg, stumbleupon, reddit, delicious, e-mail, links, sharing, bookmarks, social bookmarking, social, bookmarking, revenue, monetization, search engine optimization, seo, google, yahoo, tags, tagging, tag, optimization, widget, plugin, post, performance, stats, statistics, tracking
 Requires at least: 2.6.1
 Tested up to: 2.6.5
-Stable tag: trunk
+Stable tag: tags/1.0.0
 
 Add sharing buttons to your blog posts for: Facebook, Digg, Twitter, Email, Reddit, StumbleUpon, etc.
 
@@ -28,7 +28,7 @@ You can always change what buttons you want to appear.
 == Installation ==
 
 = Instructions =
-1. Download [Picturesurf Gallery](http://downloads.wordpress.org/plugin/share-buttons.zip) and unzip its contents into: `/path/to/wordpress/wp-content/plugins`
+1. Download [Picturesurf Gallery](http://downloads.wordpress.org/plugin/sharebuttons.zip) and unzip its contents into: `/path/to/wordpress/wp-content/plugins`
 2. Activate the plugin in the Plugin section of the Admin Panel and you're done!
 
 = Having trouble getting it installed? =
